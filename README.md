@@ -5,3 +5,4 @@
 - WebDriver Methods
 - Navigational Commands
 - Handle Checkboxes
+- Handle Alerts
