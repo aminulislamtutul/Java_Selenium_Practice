@@ -3,4 +3,5 @@
 - Launch Browser, Open URL, Validate Title, and Close Browser
 - Find Locator
 - WebDriver Methods
-- Checkbox Handle
+- Navigational Commands
+- 
