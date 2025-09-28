@@ -4,4 +4,4 @@
 - Find Locator
 - WebDriver Methods
 - Navigational Commands
-- 
+- Handle Checkboxes
