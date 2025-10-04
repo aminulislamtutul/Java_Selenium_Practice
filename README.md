@@ -9,3 +9,5 @@
 - Handle Frames
 - Select Dropdown
 - Auto Suggest Dropdown
+- Handle Tables
+- Date Pickers
