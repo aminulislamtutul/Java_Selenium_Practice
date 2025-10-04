@@ -7,3 +7,4 @@
 - Handle Checkboxes
 - Handle Alerts
 - Handle Frames
+- Select Drop Down
