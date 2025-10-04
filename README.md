@@ -6,3 +6,4 @@
 - Navigational Commands
 - Handle Checkboxes
 - Handle Alerts
+- Handle Frames
